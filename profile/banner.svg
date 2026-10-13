@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420">
   <rect width="1440" height="420" fill="#14110F"/>
   <text x="96" y="72" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="20" letter-spacing="3" fill="#7A7166">ROGUE MACHINE — PUBLIC ACCESS</text>
-  <line x1="96" y1="96" x2="1440" y2="96" stroke="#7A7166" stroke-width="1"/>
-  <text x="90" y="262" font-family="'Archivo Black', 'Arial Black', Impact, sans-serif" font-weight="900" font-size="170" letter-spacing="-6" fill="#EDE6DA">ROGUE MACHINE.</text>
-  <rect x="1320" y="150" width="24" height="24" fill="#B3201B"/>
+  <line x1="96" y1="96" x2="1344" y2="96" stroke="#7A7166" stroke-width="1"/>
+  <text x="90" y="250" font-family="'Archivo Black', 'Arial Black', Impact, sans-serif" font-weight="900" font-size="124" letter-spacing="-4" fill="#EDE6DA">ROGUE MACHINE.</text>
+  <rect x="1320" y="122" width="24" height="24" fill="#B3201B"/>
   <text x="96" y="340" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="28" fill="#EDE6DA">One door. Three public repos.</text>
   <text x="96" y="384" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="20" fill="#7A7166">EEA x2 / HRSP x1</text>
 </svg>
