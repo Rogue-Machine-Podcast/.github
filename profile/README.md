@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/Rogue-Machine-Podcast/.github/main/profile/banner.svg" alt="ROGUE MACHINE." width="100%">
+<img src="https://raw.githubusercontent.com/Rogue-Machine-Podcast/.github/main/profile/banner.svg" alt="ROGUE MACHINE." width="80%">
 
 <br>
 
-<table width="80%">
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/Rogue-Machine-Podcast/EEA-Victim-Referral">
