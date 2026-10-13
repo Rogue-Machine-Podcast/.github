@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rogue-Machine-Podcast/.github/main/profile/banner.svg" alt="ROGUE MACHINE." width="80%">
+<img src="https://raw.githubusercontent.com/Rogue-Machine-Podcast/.github/main/profile/banner.svg" alt="ROGUE MACHINE." width="120%">
 
 <br>
 
