@@ -2,7 +2,7 @@
 
 <br>
 
-<table width="100%">
+<table width="80%">
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/Rogue-Machine-Podcast/EEA-Victim-Referral">
