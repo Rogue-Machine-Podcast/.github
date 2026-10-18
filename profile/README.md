@@ -57,7 +57,7 @@ To check a file, run `shasum -a 256 <file>` and compare the result with the arch
 
 ### Also in this org
 
-The other public repositories are forks of outside open-source projects that our production team uses, mostly agent tooling, local model inference and web crawling. They hold no case material. [Browse them separately](https://github.com/search?q=org%3ARogue-Machine-Podcast+topic%3Aproduction-tooling&type=repositories).
+The other public repositories are forks of outside open-source projects that our production team uses, mostly agent tooling, local model inference and web crawling. They hold no case material. [Browse them separately](https://github.com/search?q=org%3ARogue-Machine-Podcast+topic%3Aproduction-tooling+fork%3Atrue&type=repositories).
 
 ---
 
